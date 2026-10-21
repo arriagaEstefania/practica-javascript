@@ -12,3 +12,4 @@ function revisarInventario(cantidad) {
 console.log(revisarInventario(undefined));
 console.log(revisarInventario(20));
 console.log(revisarInventario(-3));
+//proyecto practica git y java 
